@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JAVA FULL STACK**
 
-- 💬 Ask me about **Html,css,js**
+- 💬 Ask me about **Html,css,js,Core Java**
 
 - 📫 How to reach me **mathaneros93@gmail.com**
 
